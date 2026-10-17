@@ -1,5 +1,5 @@
 # create patches
-# "C:\Program Files (x86)\NSIS\Bin\GenPat.exe" "C:\GOG Games\Space Quest\AGIDATA.OVL" "C:\Users\micah\Desktop\Space Quest I FR\AGIDATA.OVL" AGIDATA.OVL.patch
+# "C:\Program Files (x86)\NSIS\Bin\GenPat.exe" "C:\GOG Games\Space Quest\AGIDATA.OVL" "C:\Users\dl\Desktop\Space Quest I FR\AGIDATA.OVL" AGIDATA.OVL.patch
 
 !include MUI2.nsh
 Unicode true
